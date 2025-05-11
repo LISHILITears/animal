@@ -1,0 +1,17 @@
+SoundFile,Energy,Valence,introanimal
+Stimuli/SMAS_01_angry.mp3,high,negative,Stimuli/anotherAnimal2.mp3
+Stimuli/SMAS_01_peaceful.mp3,low,positive,Stimuli/hereComes.mp3
+Stimuli/SMAS_01_joy.mp3,high,positive,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_01_sad.mp3,low,negative,Stimuli/anotherAnimal2.mp3
+Stimuli/SMAS_02_angry.mp3,high,negative,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_02_peaceful.mp3,low,positive,Stimuli/anotherAnimal2.mp3
+Stimuli/SMAS_02_joy.mp3,high,positive,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_02_sad.mp3,low,negative,Stimuli/anotherAnimal2.mp3
+Stimuli/SMAS_06_angry.mp3,high,negative,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_06_peace_reedited.mp3,low,positive,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_06_joy.mp3,high,positive,Stimuli/anotherAnimal2.mp3
+Stimuli/SMAS_06_sad.mp3,low,negative,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_07_angry.mp3,high,negative,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_07_peaceful.mp3,low,positive,Stimuli/anotherAnimal2.mp3
+Stimuli/SMAS_07_joy.mp3,high,positive,Stimuli/anotherAnimal.mp3
+Stimuli/SMAS_07_sad.mp3,low,negative,Stimuli/anotherAnimal2.mp3
